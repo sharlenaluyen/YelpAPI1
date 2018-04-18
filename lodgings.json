@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Business 1",
+    "streetAddress": "Street Address 1",
+    "city": "City 1",
+    "state": "State 1",
+    "zip": "Zip 1",
+    "phoneNumber": "Phone Number 1",
+    "category": "Restaurant",
+     "subcategories" : [
+      {"type": "Brewpub"},
+      {"type": "Chinese"},
+      {"type": "Mexican"},
+      {"type": "American"},
+      {"type": "Indian"},
+      {"type": "Thai"},
+      {"type": "Deli"},
+      {"type": "Ice Cream Parlor"}
+    ],
+    "review": [{
+            "stars":"5",
+            "dollars":"$",
+            "review":"This place is the best!"
+    }]
+  },
+  {
+    "name": "Business 2",
+    "streetAddress": "Street Address 2",
+    "city": "City 2",
+    "state": "State 2",
+    "zip": "Zip 2",
+    "phoneNumber": "Phone Number 2",
+    "category": "Shopping",
+     "subcategories" : [
+      {"type": "Grocery Store"},
+      {"type": "Flowers"},
+      {"type": "Clothing"},
+      {"type": "Hardware"},
+      {"type": "Department Store"},
+      {"type": "Jewelry"}
+    ],
+    "review": [{
+            "stars":"4",
+            "dollars":"$$",
+            "review":"yes!"
+    }]
+  },
+  {
+    "name": "Business 3",
+    "streetAddress": "Street Address 3",
+    "city": "City 3",
+    "state": "State 3",
+    "zip": "Zip 3",
+    "phoneNumber": "Phone Number 3",
+    "category": "Arts and Entertainment",
+    "subcategory": "Subcategory 3",
+    "review": [{
+            "stars":"3",
+            "dollars":"$$$",
+            "review":"no!"
+    }]
+  },
+  {
+    "name": "Business 4",
+    "streetAddress": "Street Address 4",
+    "city": "City 4",
+    "state": "State 4",
+    "zip": "Zip 4",
+    "phoneNumber": "Phone Number 4",
+    "category": "Restaurant",
+    "subcategories" : [
+      {"type": "Brewpub"},
+      {"type": "Chinese"},
+      {"type": "Mexican"},
+      {"type": "Pizza"},
+      {"type": "Indian"},
+      {"type": "Thai"},
+      {"type": "Deli"},
+      {"type": "Ice Cream Parlor"}
+    ],
+    "review": [{
+            "stars":"4",
+            "dollars":"$$",
+            "review":"never eat here!"
+    }]
+  }
+]
+
+/*
+[
+  {
+    "name": "Lodging 1",
+    "description": "Description 1",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 2",
+    "description": "Description 2",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 3",
+    "description": "Description 3",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 4",
+    "description": "Description 4",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 5",
+    "description": "Description 5",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 6",
+    "description": "Description 6",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 7",
+    "description": "Description 7",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 8",
+    "description": "Description 8",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 9",
+    "description": "Description 9",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 10",
+    "description": "Description 10",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 11",
+    "description": "Description 11",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 12",
+    "description": "Description 12",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 13",
+    "description": "Description 13",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 14",
+    "description": "Description 14",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 15",
+    "description": "Description 15",
+    "price": 128.00
+  },
+  {
+    "name": "Lodging 16",
+    "description": "Description 16",
+    "price": 128.00
+  }
+]
+*/
